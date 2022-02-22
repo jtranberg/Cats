@@ -1,0 +1,63 @@
+/* styles for cats */
+
+* {
+  margin: 0;
+  padding: 0;  
+}
+
+.topHeader {
+    background-color: #0e2a57;
+    padding: 50px;
+}
+
+body {
+    text-align: center;
+    background-color: aqua;
+    color: #bb2a3e;
+}
+h1 {
+    font-size: 70px;
+    padding: 20px;
+
+}
+h2 {
+  font-size: 30px;
+  padding: 20px;  
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+    padding: 30px;
+}
+
+.navMenue {
+list-style: none;
+padding: 30px;
+text-transform: lowercase;
+}
+.navMenue li {
+display: inline-block;
+}
+.navMenue a {
+  text-decoration: none;
+  padding: 10px;
+  color: aqua;
+}
+
+.mainSection {
+  padding: 50px;
+
+}
+
+#blurb {
+  width: 50%;
+  margin: auto;
+}
+
+footer {
+  margin: top 20px; 
+  padding: 40px;
+  background-color: bisque;
+}
