@@ -8,23 +8,31 @@
 .topHeader {
     background-color: #0e2a57;
     padding: 50px;
+    
 }
 
 body {
+  font-family: 'Bodoni Moda', serif;
     text-align: center;
     background-color: aqua;
     color: #bd9fb4;
 }
 h1 {
-    font-size: 90px;
-    padding: 20px;
-
+  font-size: 120px;
+  font-family: 'Khula', sans-serif;
+  text-transform: upperCase;
+  padding: 20px;
 }
+
 h2 {
-  font-size: 50px;
-  padding: 20px;  
+  font-size: 60px;
+  padding: 20px;
+  letter-spacing: 5px;  
 }
 
+#pink {
+  color: #ec29b2;
+}
 img {
     display: block;
     margin: auto;
@@ -36,6 +44,8 @@ img {
 list-style: none;
 padding: 30px;
 text-transform: uppercase;
+margin-top: 15px;
+font-size: 15px;
 }
 .navMenue li {
 display: inline-block;
