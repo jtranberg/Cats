@@ -7,6 +7,8 @@
 
 .topHeader {
     background-color: #0e2a57;
+    background: url(../img/catBackround.jpeg);
+    background-size: cover;
     padding: 50px;
     
 }
@@ -57,6 +59,7 @@ display: inline-block;
 }
 
 .mainSection {
+
   padding: 50px;
 
 }
@@ -71,3 +74,5 @@ footer {
   padding: 40px;
   background-color: bisque;
 }
+
+
